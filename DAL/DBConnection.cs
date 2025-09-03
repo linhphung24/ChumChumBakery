@@ -5,6 +5,6 @@ namespace CoffeeManagement.DAL
 {
     public class DBConnection
     {
-        protected string connect = "Server = 103.163.214.101; Database=CoffeeManagement;User Id =sa; Password=chumchum123@;";
+        protected string connect = "";
     }
 }
